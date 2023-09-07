@@ -25,7 +25,7 @@ export var storyboard = (
         left: 1036,
         top: 128,
       }}
-      data-label='New And Improved Label Final'
+      data-label='New And Improved Label Final (Copy)'
     >
       <App style={{}} />
     </Scene>
