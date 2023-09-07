@@ -25,7 +25,7 @@ export var storyboard = (
         left: 1036,
         top: 128,
       }}
-      data-label='It Is My App'
+      data-label='It Is My App And I Like It'
     >
       <App style={{}} />
     </Scene>
