@@ -25,7 +25,7 @@ export var Playground = () => {
           src='https://github.com/concrete-utopia/utopia/blob/master/editor/resources/editor/pyramid_fullsize@2x.jpg?raw=true'
           alt='Utopia logo'
           style={{ height: '100%' }}
-          data-uid='b0e'
+          data-uid='b0edfsdfd'
         />
       </div>
     </div>
